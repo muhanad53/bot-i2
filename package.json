@@ -1,3 +1,4 @@
+//البكجات الاساسية لتشغيل بوت دسكورد v12
 {
   "name": "index.js",
   "scripts": {
@@ -14,3 +15,4 @@
     "nodemon": "^2.0.7"
   }
 }
+//https://ra3dstudio.com CopyRight Codes
